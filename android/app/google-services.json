@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "27380353617",
+    "project_id": "cosons-b1928",
+    "storage_bucket": "cosons-b1928.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27380353617:android:b6d8989e5d4c4a71e04670",
+        "android_client_info": {
+          "package_name": "com.example.cosons"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDoiDZ8UV3kVqTR9oB75s7Arhf9y9pVDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
